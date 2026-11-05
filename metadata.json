@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Huruf Hijaiyyah - Game Edukasi Anak TK",
+  "description": "Game edukasi interaktif belajar huruf hijaiyyah yang ceria dan seru untuk anak TK dengan suara, tebak huruf, pecah balon, jejak garis, dan pasang kartu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
